@@ -1,0 +1,39 @@
+{
+  "name": "morse-bb8",
+  "version": "0.0.0",
+  "main": "index.js",
+  "description": "Sphero.js",
+  "homepage": "http://www.sphero.com/",
+  "bugs": "https://github.com/orbotix/sphero.js/issues",
+  "author": "Orbotix Inc.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/orbotix/sphero.js"
+  },
+  "license": "MIT",
+  "keywords": [
+    "robot",
+    "robots",
+    "robotics",
+    "hardware",
+    "sphero",
+    "spherojs",
+    "sphero-js",
+    "orbotix",
+    "ollie",
+    "bb8",
+    "bb-8",
+    "sprk"
+  ],
+  "dependencies": {
+    "lodash": "^4.0.0",
+    "noble": "^1.3.0",
+    "sphero": "^0.7.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "morse": "^0.1.0"
+  }
+}
